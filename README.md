@@ -33,7 +33,7 @@ This repository contains a FastAPI-based backend for the ElizaOS plugin that all
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/elizaos-plugin.git
+   git clone https://github.com/Dhanraj529/elizaos-plugin.git
    cd elizaos-plugin
    ```
 
